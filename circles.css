@@ -4,11 +4,11 @@ canvas {
     height: 100%;
     background-image: linear-gradient(
       to right top,
-      #1531ac,
-      #24bd57,
-      #dde750,
-      #361680,
-      #15b415
+      #000000,
+      #000000,
+      #000000,
+      #000000,
+      #000000
     );
   }
   body,
